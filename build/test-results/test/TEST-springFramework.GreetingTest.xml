@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="springFramework.GreetingTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-01-01T03:28:45" hostname="DESKTOP-9B9M95V" time="0.022">
+  <properties/>
+  <testcase name="helloWorld()" classname="springFramework.GreetingTest" time="0.019"/>
+  <testcase name="helloName()" classname="springFramework.GreetingTest" time="0.003"/>
+  <system-out><![CDATA[Before - I am only called once!!!
+In Before Each ....
+In After Each ....
+In Before Each ....
+In After Each ....
+After - I am only called once!!!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
